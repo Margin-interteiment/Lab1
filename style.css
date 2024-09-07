@@ -5,3 +5,12 @@
    display: flex;
    align-self: center;
 }
+
+button,
+input,
+textarea{
+ background-color: transparent;
+ cursor: pointer;
+ color: #000;
+ size: 24px;
+}
